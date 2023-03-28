@@ -27,4 +27,4 @@ async def on_message(message):
         )
         await message.channel.send(response.choices[0].text)
 
-client.run("DISCORD_BOT_TOKEN")
+client.run(os.environ.get("DISCORD_BOT_TOKEN"))
