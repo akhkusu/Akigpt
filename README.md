@@ -33,7 +33,7 @@ I uploaded the script on Pythonanywhere and ran it globally <br/>
 
 
 <br />
-I configured the Telegram chatbot and tried it. It worked! <br/>
+I configured the Telegram chatbot and sent messages to the bot. It worked! <br/>
 <img src="img/Screenshot 2023-08-13 152350.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
